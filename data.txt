@@ -10,9 +10,9 @@
     },
     {
       "name": "MOD MENU V2 [WITH SKINHACKS]",
-      "status": "OFFLINE",
-      "lib_name": "libRenzmod.so",
-      "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmod.so",
+      "status": "ONLINE",
+      "lib_name": "libRenzmodv2.so",
+      "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmodzv2.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {

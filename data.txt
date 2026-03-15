@@ -17,9 +17,9 @@
     },
     {
       "name": "MOD MENU V3 [NO SKINHACKS]",
-      "status": "MAINTENANCE",
-      "lib_name": "libRenzmod.so",
-      "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmod.so",
+      "status": "ONLINE",
+      "lib_name": "libRenzmodv3.so",
+      "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmodv3.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]

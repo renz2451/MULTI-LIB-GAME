@@ -21,6 +21,13 @@
       "lib_name": "libRenzmodv3.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmodv3.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "NXE CRACK",
+      "status": "ONLINE",
+      "lib_name": "libCODM.so",
+      "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libCODM.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }

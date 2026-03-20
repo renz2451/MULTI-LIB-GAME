@@ -27,7 +27,7 @@
       "status": "ONLINE",
       "lib_name": "libBSglobal.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libBSglobal.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "game_activity": "com.netease.game.MessiahNativeActivity"
     },
     {
       "name": "NXE CRACK",

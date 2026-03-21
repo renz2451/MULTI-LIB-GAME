@@ -1,5 +1,5 @@
 {
-  "whats_new": "• haha shit Improve all functions\n• Added new MOD MENU V3 without skinhacks\n• Improved stability for all mods\n• Fixed injection issues on Android 14\n• Added NXE CRACK support\n• Performance optimizations\n• Added auto-update timestamp feature",
+  "whats_new": "• lol shit Improve all functions\n• Added new MOD MENU V3 without skinhacks\n• Improved stability for all mods\n• Fixed injection issues on Android 14\n• Added NXE CRACK support\n• Performance optimizations\n• Added auto-update timestamp feature",
   "menu_title": "SYSTEM MULTI SELECT",
   "systems": [
     {

@@ -5,6 +5,7 @@
     {
       "name": "MOD MENU V1 [WITH SKINHACKS]",
       "status": "ONLINE",
+      "update": "• Added new features\n• Improved stability for all mods\n• Fixed injection issues on Android 14\n• Added NXE CRACK support\n• Performance optimizations\n• Added auto-update timestamp feature\n• New UI design",
       "lib_name": "libRenzmod.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmod.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
@@ -13,6 +14,7 @@
     {
       "name": "MOD MENU V2 [WITH SKINHACKS]",
       "status": "ONLINE",
+      "update": "• Enhanced skinhacks\n• Improved aimbot accuracy\n• Fixed crashing issues\n• Added new ESP features",
       "lib_name": "libRenzmodv2.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmodzv2.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
@@ -21,6 +23,7 @@
     {
       "name": "MOD MENU V3 [NO SKINHACKS]",
       "status": "ONLINE",
+      "update": "• Clean version without skinhacks\n• Optimized performance\n• Reduced file size\n• Better compatibility",
       "lib_name": "libRenzmodv3.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmodv3.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
@@ -29,14 +32,16 @@
     {
       "name": "BLOOD STRIKE [WITH SKINHACKS]",
       "status": "OFFLINE",
+      "update": "• Server maintenance\n• New features coming soon\n• Improved stability",
       "lib_name": "libBSglobal.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libBSglobal.so",
       "game_activity": "com.netease.game.MessiahNativeActivity",
-      "maintenance_reason": "Server maintenance - Expected back online by Jan 20, 2024"
+      "maintenance_reason": "Server maintenance - Expected back online by Jan 20, 2026"
     },
     {
       "name": "NXE CRACK",
       "status": "MAINTENANCE",
+      "update": "• Major update in progress\n• Enhanced bypass system\n• New menu features\n• Improved performance",
       "lib_name": "libCODM.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libCODM.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",

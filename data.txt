@@ -1,4 +1,5 @@
 {
+  "whats_new": "• Added new MOD MENU V3 without skinhacks\n• Improved stability for all mods\n• Fixed injection issues on Android 14\n• Added NXE CRACK support\n• Performance optimizations\n• Added auto-update timestamp feature",
   "menu_title": "SYSTEM MULTI SELECT",
   "systems": [
     {
@@ -6,35 +7,40 @@
       "status": "ONLINE",
       "lib_name": "libRenzmod.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmod.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "maintenance_reason": ""
     },
     {
       "name": "MOD MENU V2 [WITH SKINHACKS]",
       "status": "ONLINE",
       "lib_name": "libRenzmodv2.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmodzv2.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "maintenance_reason": ""
     },
     {
       "name": "MOD MENU V3 [NO SKINHACKS]",
       "status": "ONLINE",
       "lib_name": "libRenzmodv3.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libRenzmodv3.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "maintenance_reason": ""
     },
     {
       "name": "BLOOD STRIKE [WITH SKINHACKS]",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "lib_name": "libBSglobal.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libBSglobal.so",
-      "game_activity": "com.netease.game.MessiahNativeActivity"
+      "game_activity": "com.netease.game.MessiahNativeActivity",
+      "maintenance_reason": "Server maintenance - Expected back online by Jan 20, 2024"
     },
     {
       "name": "NXE CRACK",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libCODM.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libCODM.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "maintenance_reason": "Updating to latest version with enhanced features. ETA: 2-3 hours"
     }
   ]
 }

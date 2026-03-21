@@ -3,7 +3,7 @@
   "menu_title": "SYSTEM MULTI SELECT",
   "systems": [
     {
-      "name": "MOD MENU V1 test27 [WITH SKINHACKS]",
+      "name": "MOD MENU V1 test2 [WITH SKINHACKS]",
       "status": "ONLINE",
       "update": "• HAHAHHAHHAHA\n• Added new features\n• Improved stability for all mods\n• Fixed injection issues on Android 14\n• Added NXE CRACK support\n• Performance optimizations\n• Added auto-update timestamp feature\n• New UI design",
       "lib_name": "libRenzmod.so",

@@ -1,9 +1,9 @@
 {
-  "whats_new": "• lol shit Improve all functions\n• Added new MOD MENU V3 without skinhacks\n• Improved stability for all mods\n• Fixed injection issues on Android 14\n• Added NXE CRACK support\n• Performance optimizations\n• Added auto-update timestamp feature",
+  "whats_new": "• lol 123shit Improve all functions\n• Added new MOD MENU V3 without skinhacks\n• Improved stability for all mods\n• Fixed injection issues on Android 14\n• Added NXE CRACK support\n• Performance optimizations\n• Added auto-update timestamp feature",
   "menu_title": "SYSTEM MULTI SELECT",
   "systems": [
     {
-      "name": "MOD MENU V1 test2 [WITH SKINHACKS]",
+      "name": "MOD MENU V1 test273 [WITH SKINHACKS]",
       "status": "ONLINE",
       "update": "• HAHAHHAHHAHA v123\n• Added new features\n• Improved stability for all mods\n• Fixed injection issues on Android 14\n• Added NXE CRACK support\n• Performance optimizations\n• Added auto-update timestamp feature\n• New UI design",
       "lib_name": "libRenzmod.so",

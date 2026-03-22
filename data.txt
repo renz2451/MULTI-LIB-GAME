@@ -12,7 +12,7 @@
       "maintenance_reason": ""
     },
 {
-      "name": "MOD MENU V123 test27344 [WITH SKINHACKS]",
+      "name": "MOD MENU V1234566 test27344 [WITH SKINHACKS]",
       "status": "ONLINE",
       "update": "• HAHAHHAHHAHA v123n4fjdd\n• Added new features\n• Improved stability for all mods\n• Fixed injection issues on Android 14\n• Added NXE CRACK support\n• Performance optimizations\n• Added auto-update timestamp feature\n• New UI design",
       "lib_name": "libRenzmod.so",

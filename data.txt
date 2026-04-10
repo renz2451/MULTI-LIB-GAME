@@ -40,10 +40,10 @@
     },
     {
       "name": "NXE CRACK",
-      "status": "MAINTENANCE",
+      "status": "ONLINE",
       "update": "• Major update in progress\n• Enhanced bypass system\n• New menu features\n• Improved performance",
       "lib_name": "libCODM.so",
-      "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libCODM.so",
+      "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libMgubs.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
       "maintenance_reason": "Updating to latest version with enhanced features. ETA: 2-3 hours"
     },

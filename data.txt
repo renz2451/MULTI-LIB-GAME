@@ -40,7 +40,7 @@
     },
     {
       "name": "NXE CRACK",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "update": "• Major update in progress\n• Enhanced bypass system\n• New menu features\n• Improved performance",
       "lib_name": "libCODM.so",
       "download_url": "https://my-angge.x10.mx/OnlineLibRenz/libMgubs.so",
